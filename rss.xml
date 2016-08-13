@@ -4,8 +4,15 @@
         <description><![CDATA[Rollerblades]]></description>
         <link>http://www.rollerblad.es/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 12:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2016 12:29:55 GMT</lastBuildDate>
         <atom:link href="http://www.rollerblad.es/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>http://www.rollerblad.es/8eeed95c-2686-4544-a608-f47ccf61adc6/index.html</link>
+            <guid isPermaLink="false">8eeed95c-2686-4544-a608-f47ccf61adc6</guid>
+            <pubDate>Sat, 13 Aug 2016 12:29:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Kinds of Inline Skates </p>]]></description>
