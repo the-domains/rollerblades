@@ -1,0 +1,28 @@
+name: Rollerblades
+favicon: null
+layout_spectrum: 0.44496850692667067
+typography_spectrum: 0.7499219868332148
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9717243472114205
+  lightness: 0.1412974016275257
+  saturation: 0.8411933013703674
+  rhythmicContrast: 0.6318911113776267
+purpose: []
