@@ -1,7 +1,7 @@
 name: Rollerblades
 favicon: null
-layout_spectrum: 0.44496850692667067
-typography_spectrum: 0.7499219868332148
+layout_spectrum: 0.88941
+typography_spectrum: 0.40242
 title: Rollerblades
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#006da5'
+    - '#008ac6'
+    - '#054d88'
+    - '#0000ff'
+    - '#000000'
   brandStrength: 0.9717243472114205
   lightness: 0.1412974016275257
   saturation: 0.8411933013703674
-  rhythmicContrast: 0.6318911113776267
+  rhythmicContrast: 0.75
 purpose: []
